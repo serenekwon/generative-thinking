@@ -1,6 +1,6 @@
 # AI와 함께 만든 개인 연구소
 
-부제 - Serene Human Framework가 만들어진 과정
+## Serene Human Framework가 만들어진 과정
 
 이 문서는 Serene Human Framework가 실제로 어떻게 만들어졌는지 기록한 사례입니다.
 
